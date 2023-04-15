@@ -1,0 +1,64 @@
+body{
+	background-color: powderblue;
+}
+
+hr{
+	border: none;
+}
+
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	border-radius: 15px;
+	background-color: blue;
+	color: white;
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+	color: white;
+	background-color: black;
+	border-radius: 15px;
+}
+#display_name
+{
+	border: 1px solid black;
+    padding: 10px;
+	background-color: red;
+	border-radius: 10px;
+    width: 560px;
+	height: 20px;
+	font-weight: bold;
+}
+
+#sorted
+{
+	border: 1px solid black;
+    padding: 10px;
+	background-color: green;
+	border-radius: 15px;
+    width: 560px;
+	height: 190px;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#p1	
+{
+	border: 1px solid black;
+    padding: 10px;
+	background-color: aqua;
+	border-radius: 15px;
+    width: 560px;
+	height: 190px;
+	font-weight: bold;
+	font-size: 25px;
+}
